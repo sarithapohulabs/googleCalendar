@@ -1,0 +1,24 @@
+{
+  "name": "googlecalendar",
+  "version": "1.0.0",
+  "description": "Node.js Calendar integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarithapohulabs/googleCalendar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarithapohulabs/googleCalendar/issues"
+  },
+  "homepage": "https://github.com/sarithapohulabs/googleCalendar#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "googleapis": "^110.0.0"
+  }
+}
